@@ -6,6 +6,7 @@ Full Stack Software Developer
 
 * 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho
 * 🌱 Estou estudando tecnologia front-end: ReactJs e tecnologia backend: typescript | node | mongoDb
+* ✉️ Você pode entrar em contato comigo em: adrianosodre23@gmail.com
 * 😄 Pronouns: ele/dele
 
 Sou um desenvolvedor novato. Tém pouco tempo que eu descobri o mundo do desenvolvimento de software. Adoro codificar e descobrir como resolver problemas utilizando as diversas tecnologia de ponta. Meu foco principal é desenvolvimento front-end e back-end. Construindo aplicações que impactam diretamente na vida de milhares de usuários.
@@ -33,6 +34,15 @@ Skills
   
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide=&count_private=true&title_color=50C878&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Carlos6464's GitHub stats" />
 </a>
+</div>
+
+##
+
+<div>
+  <a href="https://www.instagram.com/adrianosodre23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/GeneralIBR#2306" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:adrianosodre23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-adriano-sodre-araujo-b2091a1bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
