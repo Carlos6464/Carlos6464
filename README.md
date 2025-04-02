@@ -3,9 +3,6 @@
 
 Full Stack Software Developer
 ---------------------------
-
-* 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho
-* 🌱 Estou estudando tecnologia front-end: ReactJs e tecnologia backend: typescript | node | mongoDb
 * ✉️ Você pode entrar em contato comigo em: adrianosodre23@gmail.com
 * 😄 Pronouns: ele/dele
 
