@@ -47,7 +47,7 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
 
 | **Core & Backend** | **Frontend & Mobile & UI** | **Infra & Cloud** | **AI & Data** |
 | :---: | :---: | :---: | :---: |
-| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,ionic" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,nx" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
+| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,nx" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
 
 </div>
 
@@ -60,7 +60,7 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
   
   <br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=fff&bg_color=45,0d1117,300a24&rank_icon=github" alt="Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=compact&hide_border=true&title_color=7f13ec&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=donut&theme=tokyonight&hide_border=true&donut_title=Langs" alt="Top Langs" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos6464&theme=transparent&hide_border=true&ring=7f13ec&fire=06b6d4&currStreakLabel=7f13ec&sideNums=999&dates=999" alt="Streak" />
 </div>
