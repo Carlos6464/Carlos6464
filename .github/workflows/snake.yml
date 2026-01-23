@@ -1,16 +1,18 @@
 name: Generate Snake
 
 on:
-  # Roda automaticamente a cada 24 horas (meia-noite)
   schedule:
     - cron: "0 0 * * *" 
-  # Permite rodar manualmente na aba Actions para testar
   workflow_dispatch:
-  # Roda a cada push na branch main/master
   push:
     branches:
     - master
     - main
+
+# --- ADICIONE ESTE BLOCO AQUI ---
+permissions:
+  contents: write
+# --------------------------------
 
 jobs:
   build:
