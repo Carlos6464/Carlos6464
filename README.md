@@ -31,7 +31,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Com mais de **10 anos de experiência** no desenvolvimento de software, atuo hoje como Arquiteto de Software focado em resolver problemas complexos de negócio através de soluções técnicas elegantes. 
+Com mais de **3 anos de experiência** no desenvolvimento de software, atuo hoje como Arquiteto de Software focado em resolver problemas complexos de negócio através de soluções técnicas elegantes. 
 
 Minha especialidade é migrar monólitos para **microsserviços**, implementar arquiteturas limpas (**Clean Arch/DDD**) e criar sistemas modernos que integram **Inteligência Artificial** em fluxos corporativos.
 
