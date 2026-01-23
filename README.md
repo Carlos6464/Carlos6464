@@ -49,7 +49,7 @@ Arquitetura robusta exige as ferramentas certas. Aqui está meu stack principal 
 
 | **Backend & Core** | **Frontend & UI** | **Infra & DevOps** | **AI & Data** |
 | :---: | :---: | :---: | :---: |
-| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,go" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,postgres" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
+| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,mysql" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
 
 </div>
 
