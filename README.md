@@ -9,7 +9,7 @@
   <h3 align="center">Senior Software Architect | Full-Stack Specialist</h3>
   
   <p align="center">
-     Expert em sistemas distribuídos, escalabilidade e integração de IA generativa.
+     Transformando requisitos complexos em sistemas distribuídos, escaláveis e inteligentes.
   </p>
   
   <br/>
@@ -31,46 +31,49 @@
 
 ### 👨‍💻 Sobre Mim
 
-Com mais de **3 anos de experiência** no desenvolvimento de software, atuo hoje como Arquiteto de Software focado em resolver problemas complexos de negócio através de soluções técnicas elegantes. 
+Com uma trajetória acelerada e **mais de 3 anos de imersão** em projetos de alta complexidade, atuo como Arquiteto de Software focado em excelência técnica e impacto de negócio.
 
-Minha especialidade é migrar monólitos para **microsserviços**, implementar arquiteturas limpas (**Clean Arch/DDD**) e criar sistemas modernos que integram **Inteligência Artificial** em fluxos corporativos.
+Minha especialidade vai além do código: envolve desenhar migrações de legados para **microsserviços**, implementar padrões robustos (**Clean Arch/DDD**) e integrar a nova onda de **Inteligência Artificial** em produtos reais.
 
-- 🔭 **Atualmente trabalhando em:** Plataformas SaaS com integração de Agentes de IA.
-- 🌱 **Estudando:** LLM Fine-tuning e Arquitetura de Sistemas Autônomos.
-- ⚡ **Foco:** Performance, Escalabilidade e Developer Experience (DX).
+- 🔭 **Atualmente:** Liderando a arquitetura de plataformas SaaS com Agentes de IA autônomos.
+- 🌱 **Deep Dive:** Fine-tuning de LLMs e Orquestração de Contêineres em escala.
+- ⚡ **Core:** Performance, Escalabilidade Horizontal e Developer Experience (DX).
 
 <br/>
 
 ### 🛠️ The Engineering Arsenal
 
-Arquitetura robusta exige as ferramentas certas. Aqui está meu stack principal atual:
-
 <div align="center">
 
-| **Backend & Core** | **Frontend & UI** | **Infra & DevOps** | **AI & Data** |
+| **Core & Backend** | **Frontend & UI** | **Infra & Cloud** | **AI & Data** |
 | :---: | :---: | :---: | :---: |
-| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,mysql" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
+| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php,go" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,azure" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
 
 </div>
 
 <br/>
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Carlos's Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=compact&hide_border=true&title_color=7f13ec&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos6464&bg_color=0a0a0a&color=7f13ec&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <br/><br/>
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=compact&hide_border=true&title_color=7f13ec&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos6464&theme=transparent&hide_border=true&ring=7f13ec&fire=06b6d4&currStreakLabel=7f13ec&sideNums=999&dates=999" alt="Streak" />
 </div>
 
 <br/>
 
 ### 🏆 Featured Projects
 
-| Projeto | Role | Stack |
+| Projeto | Role | Stack (Architecture & Tech) |
 | :--- | :--- | :--- |
-| **Structure AI** | Lead Architect | `Python` `FastAPI` `Next.js` `RAG` |
-| **Aura** | Full Stack Lead | `NestJS` `Angular` `WebSockets` `DDD` |
-| **PubliFlow** | Mobile Tech Lead | `React Native` `Node.js` `OAuth 2.0` |
+| **Structure AI** | Lead Architect | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![RAG](https://img.shields.io/badge/AI-RAG-f59e0b?style=flat-square) |
+| **Aura** | Full Stack Lead | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![DDD](https://img.shields.io/badge/Clean_Arch-DDD-06b6d4?style=flat-square) |
+| **PubliFlow** | Mobile Tech Lead | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![OAuth](https://img.shields.io/badge/Auth-OAuth2.0-4285F4?style=flat-square) |
 
 <br/>
 
