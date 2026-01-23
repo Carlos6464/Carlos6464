@@ -55,8 +55,10 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
 
 ### 🐍 GitHub Activity & Analytics
 
+### 🐍 GitHub Activity & Analytics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Carlos6464/Carlos6464/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Carlos6464/Carlos6464/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   
   <br/><br/>
   
