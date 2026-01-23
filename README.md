@@ -45,9 +45,9 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
 
 <div align="center">
 
-| **Core & Backend** | **Frontend & UI** | **Infra & Cloud** | **AI & Data** |
+| **Core & Backend** | **Frontend & Mobile & UI** | **Infra & Cloud** | **AI & Data** |
 | :---: | :---: | :---: | :---: |
-| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php,go" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,azure" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
+| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,ionic" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,nx" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
 
 </div>
 
@@ -59,8 +59,7 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
   <img src="https://raw.githubusercontent.com/Carlos6464/Carlos6464/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   
   <br/><br/>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=fff&bg_color=45,0d1117,300a24&rank_icon=github" alt="Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=compact&hide_border=true&title_color=7f13ec&text_color=999&bg_color=0a0a0a&theme=transparent" alt="Langs" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos6464&theme=transparent&hide_border=true&ring=7f13ec&fire=06b6d4&currStreakLabel=7f13ec&sideNums=999&dates=999" alt="Streak" />
