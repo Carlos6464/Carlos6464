@@ -47,7 +47,7 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
 
 | **Core & Backend** | **Frontend & Mobile & UI** | **Infra & Cloud** | **AI & Data** |
 | :---: | :---: | :---: | :---: |
-| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,nx" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongo,redis" /> |
+| <img height="45" src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php" /> | <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind" /> | <img height="45" src="https://skillicons.dev/icons?i=docker,kubernetes" /> | <img height="45" src="https://skillicons.dev/icons?i=pytorch,mongo,redis,postgres,mysql" /> |
 
 </div>
 
