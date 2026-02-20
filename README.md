@@ -58,10 +58,6 @@ Minha especialidade vai além do código: envolve desenhar migrações de legado
 <div align="center">
   <img src="https://raw.githubusercontent.com/Carlos6464/Carlos6464/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos6464&show_icons=true&hide_border=true&title_color=7f13ec&icon_color=06b6d4&text_color=fff&bg_color=45,0d1117,300a24&rank_icon=github" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos6464&layout=donut&theme=tokyonight&hide_border=true&donut_title=Langs" alt="Top Langs" />
-  
 </div>
 
 <br/>
