@@ -1,22 +1,20 @@
 <div align="center">
   <a href="https://portifolio-dun-three-89.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=B084F5&center=true&vCenter=true&width=500&lines=Architecture+First.;Building+Scalable+Systems.;AI-Native+Solutions." alt="Typing SVG" />
+    <img src="https://herokuapp.com." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <h1 align="center">Carlos Adriano Sodré Araújo</h1>
-  <h3 align="center">Senior Software Architect | Full-Stack Specialist</h3>
+  <h3 align="center">Software Architect & Senior Full-Stack Engineer</h3>
   
   <p align="center">
-     Transformando requisitos complexos em sistemas distribuídos, escaláveis e inteligentes.
+     B.S. in Computer Science (UFF) & Double Post-Graduate in Full-Stack Software Development.
+     <br/>Engineering high-performance, event-driven financial systems and AI-native products.
   </p>
   
   <br/>
-
-  <a href="https://portifolio-dun-three-89.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio_Oficial-7f13ec?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  
   <a href="mailto:adrianosodre23@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -29,15 +27,15 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Com uma trajetória acelerada e **mais de 3 anos de imersão** em projetos de alta complexidade, atuo como Arquiteto de Software focado em excelência técnica e impacto de negócio.
+B.S. in **Computer Science from UFF** coupled with a **Double Post-Graduate specialization in Full-Stack Software Development**. I combine robust academic foundations with hands-on expertise to engineer high-throughput backend applications and modern frontend monorepos.
 
-Minha especialidade vai além do código: envolve desenhar migrações de legados para **microsserviços**, implementar padrões robustos (**Clean Arch/DDD**) e integrar a nova onda de **Inteligência Artificial** em produtos reais.
+My architectural focus centers on building reliable event-driven systems, implementing domain-driven design (DDD/Clean Architecture), and integrating conversational AI infrastructure into production-grade fintech environments.
 
-- 🔭 **Atualmente:** Liderando a arquitetura de plataformas SaaS com Agentes de IA autônomos.
-- 🌱 **Deep Dive:** Fine-tuning de LLMs e Orquestração de Contêineres em escala.
-- ⚡ **Core:** Performance, Escalabilidade Horizontal e Developer Experience (DX).
+- 🔭 **Current Focus:** Engineering highly resilient financial SaaS architectures and async messaging pipelines via Turborepo Monorepos.
+- 🌱 **Deep Dive:** Asynchronous architectures (FastAPI, Redis/ARQ) and vector databases (pgvector) for localized AI RAG workflows.
+- ⚡ **Core Pillars:** Strict transactional consistency (ACID), horizontal scalability, and developer experience (DX).
 
 <br/>
 
