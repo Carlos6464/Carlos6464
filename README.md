@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://portifolio-dun-three-89.vercel.app/" target="_blank">
-    <img src="https://herokuapp.com." alt="Typing SVG" />
-  </a>
-</div>
+
 
 <div align="center">
   <h1 align="center">Carlos Adriano Sodré Araújo</h1>
