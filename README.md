@@ -35,8 +35,9 @@ I talk with the team and the business to understand the problem before writing t
 
 ### 🚀 Featured Projects
 
-- **[api-pizzaria](https://github.com/Carlos6464/api-pizzaria)**: [one line: the problem it solves + key features, e.g. orders, authentication, payments]
-- **[casamento-api](https://github.com/Carlos6464/casamento-api)**: [one line: what it does, e.g. guest management, RSVP, gift list]
+- **[publiflow-backend](https://github.com/Carlos6464/publiflow-backend)**: API for a content platform for teachers and students, with JWT authentication, role-based access, posts with image upload, search and feed. Express, Prisma, PostgreSQL, Docker and CI with GitHub Actions.
+- **[api-pizzaria](https://github.com/Carlos6464/api-pizzaria)**: Ordering API for a pizzeria, covering authentication, menu management with image upload and the full order lifecycle from table to kitchen. NestJS, Prisma, PostgreSQL and Swagger docs.
+- **[casamento-api](https://github.com/Carlos6464/casamento-api)**: API for a wedding website with RSVP, a gift registry that prevents double reservations, a guest book and PDF reports. NestJS, Prisma and PostgreSQL.
 
 <br/>
 
