@@ -35,6 +35,7 @@ I talk with the team and the business to understand the problem before writing t
 
 ### 🚀 Featured Projects
 
+- **[amezia-core](https://github.com/Carlos6464/amezia-core)**: Simplified public version of a production personal-finance platform: a web dashboard, a WhatsApp bot and an AI agent that log and explain expenses, with RAG over pgvector embeddings. FastAPI with Clean Architecture/DDD, PostgreSQL + pgvector, Redis + ARQ job queue, Angular 19 PWA, Docker Compose and a Turborepo monorepo.
 - **[publiflow-backend](https://github.com/Carlos6464/publiflow-backend)**: API for a content platform for teachers and students, with JWT authentication, role-based access, posts with image upload, search and feed. Express, Prisma, PostgreSQL, Docker and CI with GitHub Actions.
 - **[api-pizzaria](https://github.com/Carlos6464/api-pizzaria)**: Ordering API for a pizzeria, covering authentication, menu management with image upload and the full order lifecycle from table to kitchen. NestJS, Prisma, PostgreSQL and Swagger docs.
 - **[casamento-api](https://github.com/Carlos6464/casamento-api)**: API for a wedding website with RSVP, a gift registry that prevents double reservations, a guest book and PDF reports. NestJS, Prisma and PostgreSQL.
