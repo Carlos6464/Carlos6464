@@ -36,7 +36,6 @@ I talk with the team and the business to understand the problem before writing t
 ### 🚀 Featured Projects
 
 - **[amezia-core](https://github.com/Carlos6464/amezia-core)**: Simplified public version of a production personal-finance platform: a web dashboard, a WhatsApp bot and an AI agent that log and explain expenses, with RAG over pgvector embeddings. FastAPI with Clean Architecture/DDD, PostgreSQL + pgvector, Redis + ARQ job queue, Angular 19 PWA, Docker Compose and a Turborepo monorepo.
-- **[arena](https://github.com/Carlos6464/arena)**: A market game simulator where humans and robots compete in auctions and are ranked accordingly. It is based on game theory, with the "winner's curse" serving as a key lesson.
 
 <br/>
 
